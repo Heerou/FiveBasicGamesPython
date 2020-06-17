@@ -64,6 +64,7 @@ def main():
     global width, rows
     width = 500
     rows = 20
+    # Set mode must a tuple
     win = pygame.display.set_mode((width, width))
     mySnake = Snake((255, 0, 0), (10, 10))
     flag = True
@@ -78,4 +79,5 @@ def main():
     pass
 
 
+# Calling main game
 main()
