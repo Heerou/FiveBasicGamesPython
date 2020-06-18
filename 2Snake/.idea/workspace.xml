@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="02f82fe9-7b08-4616-940b-47761de30062" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/2Snake.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/2Snake.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SnakeGame.py" beforeDir="false" afterPath="$PROJECT_DIR$/SnakeGame.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -70,22 +68,22 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1345" height="179" key="GridCell.Tab.0.bottom" timestamp="1592359245847">
+    <state width="1345" height="179" key="GridCell.Tab.0.bottom" timestamp="1592490840755">
       <screen x="-1366" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="179" key="GridCell.Tab.0.bottom/-1366.0.1366.728/0.0.1360.728@-1366.0.1366.728" timestamp="1592359245847" />
-    <state width="1345" height="179" key="GridCell.Tab.0.center" timestamp="1592359245847">
+    <state width="1345" height="179" key="GridCell.Tab.0.bottom/-1366.0.1366.728/0.0.1360.728@-1366.0.1366.728" timestamp="1592490840755" />
+    <state width="1345" height="179" key="GridCell.Tab.0.center" timestamp="1592490840754">
       <screen x="-1366" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="179" key="GridCell.Tab.0.center/-1366.0.1366.728/0.0.1360.728@-1366.0.1366.728" timestamp="1592359245847" />
-    <state width="1345" height="179" key="GridCell.Tab.0.left" timestamp="1592359245847">
+    <state width="1345" height="179" key="GridCell.Tab.0.center/-1366.0.1366.728/0.0.1360.728@-1366.0.1366.728" timestamp="1592490840754" />
+    <state width="1345" height="179" key="GridCell.Tab.0.left" timestamp="1592490840752">
       <screen x="-1366" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="179" key="GridCell.Tab.0.left/-1366.0.1366.728/0.0.1360.728@-1366.0.1366.728" timestamp="1592359245847" />
-    <state width="1345" height="179" key="GridCell.Tab.0.right" timestamp="1592359245847">
+    <state width="1345" height="179" key="GridCell.Tab.0.left/-1366.0.1366.728/0.0.1360.728@-1366.0.1366.728" timestamp="1592490840752" />
+    <state width="1345" height="179" key="GridCell.Tab.0.right" timestamp="1592490840755">
       <screen x="-1366" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="179" key="GridCell.Tab.0.right/-1366.0.1366.728/0.0.1360.728@-1366.0.1366.728" timestamp="1592359245847" />
+    <state width="1345" height="179" key="GridCell.Tab.0.right/-1366.0.1366.728/0.0.1360.728@-1366.0.1366.728" timestamp="1592490840755" />
     <state x="-1182" y="9" key="SettingsEditor" timestamp="1592358584154">
       <screen x="-1366" y="0" width="1366" height="728" />
     </state>
