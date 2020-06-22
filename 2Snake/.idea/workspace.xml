@@ -20,6 +20,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
@@ -68,22 +69,22 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1345" height="179" key="GridCell.Tab.0.bottom" timestamp="1592490840755">
+    <state width="1345" height="179" key="GridCell.Tab.0.bottom" timestamp="1592857842232">
       <screen x="-1366" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="179" key="GridCell.Tab.0.bottom/-1366.0.1366.728/0.0.1360.728@-1366.0.1366.728" timestamp="1592490840755" />
-    <state width="1345" height="179" key="GridCell.Tab.0.center" timestamp="1592490840754">
+    <state width="1345" height="179" key="GridCell.Tab.0.bottom/-1366.0.1366.728/0.0.1360.728@-1366.0.1366.728" timestamp="1592857842232" />
+    <state width="1345" height="179" key="GridCell.Tab.0.center" timestamp="1592857842231">
       <screen x="-1366" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="179" key="GridCell.Tab.0.center/-1366.0.1366.728/0.0.1360.728@-1366.0.1366.728" timestamp="1592490840754" />
-    <state width="1345" height="179" key="GridCell.Tab.0.left" timestamp="1592490840752">
+    <state width="1345" height="179" key="GridCell.Tab.0.center/-1366.0.1366.728/0.0.1360.728@-1366.0.1366.728" timestamp="1592857842231" />
+    <state width="1345" height="179" key="GridCell.Tab.0.left" timestamp="1592857842231">
       <screen x="-1366" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="179" key="GridCell.Tab.0.left/-1366.0.1366.728/0.0.1360.728@-1366.0.1366.728" timestamp="1592490840752" />
-    <state width="1345" height="179" key="GridCell.Tab.0.right" timestamp="1592490840755">
+    <state width="1345" height="179" key="GridCell.Tab.0.left/-1366.0.1366.728/0.0.1360.728@-1366.0.1366.728" timestamp="1592857842231" />
+    <state width="1345" height="179" key="GridCell.Tab.0.right" timestamp="1592857842231">
       <screen x="-1366" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="179" key="GridCell.Tab.0.right/-1366.0.1366.728/0.0.1360.728@-1366.0.1366.728" timestamp="1592490840755" />
+    <state width="1345" height="179" key="GridCell.Tab.0.right/-1366.0.1366.728/0.0.1360.728@-1366.0.1366.728" timestamp="1592857842231" />
     <state x="-1182" y="9" key="SettingsEditor" timestamp="1592358584154">
       <screen x="-1366" y="0" width="1366" height="728" />
     </state>
