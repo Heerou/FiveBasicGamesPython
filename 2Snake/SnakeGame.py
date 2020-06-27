@@ -95,7 +95,12 @@ class Snake(object):
                     c.move(c.dirnx, c.dirny)
 
     def reset(self, pos):
-        pass
+        self.head = Cube(pos)
+        self.body = []
+        self.body.append(self.head)
+        self.turns = {}
+        self.dirnx = 0
+        self.dirny = 1
 
     def addCube(self):
         snakeTail = self.body[-1]
@@ -159,7 +164,15 @@ def randomSnack(rows, item):
 
 
 def message(subject, content):
-    pass
+    root = tk.Tk()
+    root.attributes("-topmost", True)
+    root.withdraw()
+    messagebox.showinfo(subject, content)
+
+    try:
+        root.destroy()
+    except:
+        pass
 
 
 def main():
@@ -189,6 +202,13 @@ def main():
         if mySnake.body[0].pos == snack.pos:
             mySnake.addCube()
             snack = Cube(randomSnack(rows, mySnake), color=(0, 255, 0))
+
+        for x in range(len(mySnake.body)):
+            if mySnake.body[x].pos in list(map(lambda z: z.pos, mySnake.body[x + 1:])):
+                print('Score: ', len(mySnake.body))
+                message("You Lost", "Play Again")
+                mySnake.reset((10, 10))
+                break
 
         redrawWindow(win)
 
